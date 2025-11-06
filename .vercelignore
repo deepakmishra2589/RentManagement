@@ -1,0 +1,13 @@
+.git/
+.vscode/
+.idea/
+node_modules/
+**/*.log
+coverage/
+nyc_output/
+.cache/
+**/.cache/
+**/*.test.*
+**/__tests__/**
+backend/uploads/
+README.md
